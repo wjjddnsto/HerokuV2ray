@@ -2,7 +2,7 @@
 
 > 提醒： 滥用可能导致账户被BAN！！！ 
 
-> 提醒： Heroku 已经封禁本专案，请 Fork 本专案后，将 README.md 中的 Lbingyi 替换为自己的用户名后，再进行部署。 
+> 提醒： Heroku 已经封禁本专案，请 Fork 本专案后，将 README.md 中的 wjjxqx 替换为自己的用户名后，再进行部署。 
 >![image](https://user-images.githubusercontent.com/5351277/126950598-7930a0ac-739a-46ac-aef2-afa2d213a06c.png)
 
 ## 概述
@@ -140,8 +140,8 @@ addEventListener(
 
 ## OpenWrt优选IP脚本自动更新：
 
-* [CloudflareST](https://github.com/Lbingyi/CloudflareST) `OpenWrt推荐-速度较快`
-* [cf-autoupdate](https://github.com/Lbingyi/cf-autoupdate) `OpenWrt推荐`
+* [CloudflareST](https://github.com/wjjxqx/CloudflareST) `OpenWrt推荐-速度较快`
+* [cf-autoupdate](https://github.com/wjjxqx/cf-autoupdate) `OpenWrt推荐`
 
 > [更多来自热心网友PR的使用教程](/tutorial)
 
